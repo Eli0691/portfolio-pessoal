@@ -46,7 +46,7 @@ Este repositório reúne meus **projetos e atividades da faculdade**, mostrando 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eliezer-cruz-pinto/))  
 📧 seuemail@exemplo.com  
 
 ---
